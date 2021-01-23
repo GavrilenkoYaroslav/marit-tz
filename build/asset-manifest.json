@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fb87b1d.chunk.css",
+    "main.js": "/static/js/main.64067ad2.chunk.js",
+    "main.js.map": "/static/js/main.64067ad2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.472c2949.js",
+    "runtime-main.js.map": "/static/js/runtime-main.472c2949.js.map",
+    "static/js/2.c4602ecf.chunk.js": "/static/js/2.c4602ecf.chunk.js",
+    "static/js/2.c4602ecf.chunk.js.map": "/static/js/2.c4602ecf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8fb87b1d.chunk.css.map": "/static/css/main.8fb87b1d.chunk.css.map",
+    "static/js/2.c4602ecf.chunk.js.LICENSE.txt": "/static/js/2.c4602ecf.chunk.js.LICENSE.txt",
+    "static/media/aragorn.cb820518.png": "/static/media/aragorn.cb820518.png",
+    "static/media/frodo.a37e041a.png": "/static/media/frodo.a37e041a.png",
+    "static/media/gimli.a99a7c01.png": "/static/media/gimli.a99a7c01.png",
+    "static/media/legolas.2bbb9ab4.png": "/static/media/legolas.2bbb9ab4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472c2949.js",
+    "static/js/2.c4602ecf.chunk.js",
+    "static/css/main.8fb87b1d.chunk.css",
+    "static/js/main.64067ad2.chunk.js"
+  ]
+}
