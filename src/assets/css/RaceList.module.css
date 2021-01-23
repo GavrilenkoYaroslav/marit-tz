@@ -1,0 +1,88 @@
+.container {
+    width: 40%;
+    padding: 10px;
+    background-color: rgba(112, 128, 144, 0.3);
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.head h1 {
+    text-transform: uppercase;
+}
+
+.head img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.itemContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+span {
+    font-size: 20px;
+    width: 50%;
+}
+
+.buttons {
+    display: inline-block;
+    width: 50%;
+}
+
+button, button:focus {
+    padding: 0.5rem;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    transition: 0.2s;
+}
+
+.change, .delete {
+    margin-left: 5px;
+}
+
+.change, .add {
+    background-color: cornflowerblue;
+}
+
+.change:hover, .add:hover {
+    cursor: pointer;
+    background-color: dodgerblue;
+}
+
+.delete {
+    background-color: tomato;
+}
+
+.delete:hover {
+    cursor: pointer;
+    background-color: indianred;
+}
+
+.add {
+    width: 30%;
+    display: block;
+    margin: 15px auto 0;
+}
+
+@media only screen and (max-width: 991px) {
+    .container {
+        width: 80%;
+        margin: 10px 0;
+    }
+}
